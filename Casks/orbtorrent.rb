@@ -1,8 +1,8 @@
 cask "orbtorrent" do
-  version "1.0"
-  sha256 "b9af3fdf483542f5e26e63d8283a80d4411b77e7ec10c510e53fe26afade98a1"
+  version "1.0.1"
+  sha256 "58c39de2c2331fe99123d53db4327c6499fad36ef2af031c47633261fd5cdedc"
 
-  url "https://github.com/OrbTorrent/OrbTorrent/releases/download/v#{version}/OrbTorrent-1.0-universal.dmg"
+  url "https://github.com/OrbTorrent/OrbTorrent/releases/download/v#{version}/OrbTorrent-1.0.1-universal.dmg"
   name "OrbTorrent"
   desc "Torrent client for the menu bar, built on qBittorrent's engine"
   homepage "https://orbtorrent.com/"
